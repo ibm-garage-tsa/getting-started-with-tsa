@@ -37,7 +37,7 @@ As a reference, please use <https://www.makeareadme.com/> for guidance, pointers
 
 ### License requirements
 
-[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) is the default license for all open-source,[IBM Garage for Technical Solution Acceleration](https://github.com/ibm-garage-tsa)-based assets.
+[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) is the default license for all open-sourced [IBM Garage for Technical Solution Acceleration](https://github.com/ibm-garage-tsa)-based assets.
 
 Unless otherwise specifically required, all asset repositories created under <https://github.com/ibm-garage-tsa> should contain the Apache License 2.0 upon creation.
 
