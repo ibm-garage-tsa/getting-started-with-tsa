@@ -41,6 +41,12 @@ As a reference, please use <https://www.makeareadme.com/> for guidance, pointers
 
 Unless otherwise specifically required, all asset repositories created under <https://github.com/ibm-garage-tsa> should contain the Apache License 2.0 upon creation.
 
+### Contributing to Garage projects
+
+Contribution to any project found in the [IBM Garage for Technical Solution Acceleration](https://github.com/ibm-garage-tsa) organization is actively encouraged. If you are new to open source software and projects, but would still like to learn more on how to contribute, please visit the [How to Contribute to Open Source Software](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution) guide found in the [Open Source Guides](https://opensource.guide/) site, published by GitHub. There is great information in [how to submit a contribution](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution) and links to some external sites that allow you to practice.
+
+As a project or repository owner, it is requested that your project repository contain a **CONTRIBUTING.md** file to direct users on how they can interact and contribute to your repository. You can use this repository's template [CONTRIBUTING.md](CONTRIBUTING.md) as a starter and adapt as needed to your specific project and team's needs.
+
 ## Authors and acknowledgment
 
 * Rick Osowski ([@osowski](https://github.com/osowski))
