@@ -44,6 +44,8 @@ There is great information in [**how to submit a contribution**](https://opensou
 
 The internet is littered with guides and information on how to use and understand git. However, here's a compact guide that follows our suggested workflow.
 
+![Github Flow](https://github.com/ibm-cloud-architecture/ibm-cloud-architecture.github.io/raw/master-content/assets/img/github_flow.png)
+
 1. Fork the desired repository in GitHub.
 
 2. Clone your repository to your local computer.
